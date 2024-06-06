@@ -17,13 +17,29 @@ p {
   display: block;
 }
 
-.video-title {
-  width: 300px;
-}
-
 .video-preview {
   width: 300px;
   display: inline-block;
   vertical-align: top;
   margin-right: 0.9rem;
+}
+
+.thumbnail-row {
+  margin-bottom: 10px;
+}
+
+.channel-picture {
+  display: inline-block;
+  width: 50px;
+  vertical-align: top;
+}
+
+.profile-picture {
+  width: 100%;
+  border-radius: 50%;
+}
+
+.video-info {
+  display: inline-block;
+  width: 200px;
 }
